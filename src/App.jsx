@@ -9,8 +9,9 @@ function App() {
   return (
     <>
       <div className='font-bold bg-gray-700'>Portfolio generator</div>
+      <h1>Hello world -- mene change kr diya </h1>
     </>
-  )
+  ) 
 }
 
 export default App
